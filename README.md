@@ -2,7 +2,7 @@
 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
 # underlink of Project OpenUserBot Remix
 
-![logo](https://telegra.ph/file/aa41ece86f35cf15a6e9f.jpg)
+![logo](https://telegra.ph/file/cc200834bef30e842aa1f.jpg)
 
 ```
 #include <std/disclaimer.h>
